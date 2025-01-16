@@ -18,11 +18,7 @@ Sau khi đã truy cập vào chức năng trong ứng dụng Expo Go.
 - Nhập các thông tin cần hiển thị và ấn nút xác nhận (Các thông tin mặc định đã được cài sẵn giống trong ảnh mẫu)
 
 ## Kết quả mẫu
-Ảnh dưới đây là ảnh gốc dùng làm mẫu:
-![image](https://github.com/user-attachments/assets/a69b9f63-722e-4bdf-a689-0f33619e4ce2)
-
-Còn ảnh sau là ảnh tạo ra bằng cách chụp màn hình lại
-![image](https://github.com/user-attachments/assets/70e13a34-d6b0-4619-8229-810cb34bacd5)
+Ảnh bên trái ở dưới là ảnh gốc dùng để làm mẫu, ảnh bên phải là ảnh chụp màn hình sản phẩm.
 
 <img src="https://github.com/user-attachments/assets/a69b9f63-722e-4bdf-a689-0f33619e4ce2" alt="image1" width="150" style="display:inline-block; margin-right:10px;">
 <img src="https://github.com/user-attachments/assets/70e13a34-d6b0-4619-8229-810cb34bacd5" alt="image2" width="150" style="display:inline-block;">
