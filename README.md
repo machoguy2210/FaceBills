@@ -24,5 +24,9 @@ Sau khi đã truy cập vào chức năng trong ứng dụng Expo Go.
 Còn ảnh sau là ảnh tạo ra bằng cách chụp màn hình lại
 ![image](https://github.com/user-attachments/assets/70e13a34-d6b0-4619-8229-810cb34bacd5)
 
+<img src="https://github.com/user-attachments/assets/a69b9f63-722e-4bdf-a689-0f33619e4ce2" alt="image1" width="150" style="display:inline-block; margin-right:10px;">
+<img src="https://github.com/user-attachments/assets/70e13a34-d6b0-4619-8229-810cb34bacd5" alt="image2" width="150" style="display:inline-block;">
+
+
 **Lưu  ý**: Do ảnh mẫu được chụp màn hình từ thiết bị ios và trong quá trình phát triển sản phẩm thì hệ điều hành dùng để test cũng là ios, nên trên android có thể không hoạt động đúng về mặt thiết kế. Nếu có thể hãy sử dụng ios để đạt được kết quả tốt nhất.
 
